@@ -1,8 +1,0 @@
-   for ($i=0; $i <5; $i++) {
-                $sql = "INSERT INTO student
-               (firstname, lastname, id, email, address, phonenumber, course)
-               VALUES ('Toby', 'Smith', '52149685', ....)";
-              $result = mysqli_query($conn,$sql);
-       
-
-      }
